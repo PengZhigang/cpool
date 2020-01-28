@@ -1,0 +1,6 @@
+main.c
+a.out 
+my_putchar.c
+*.gcno
+*.gcda
+unit_tests
